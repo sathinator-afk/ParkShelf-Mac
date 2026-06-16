@@ -6,18 +6,18 @@
     <description>ParkShelf updates</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.3</title>
-      <pubDate>Tue, 16 Jun 2026 11:17:57 +0000</pubDate>
-      <sparkle:version>202606162116</sparkle:version>
-      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+      <title>Version 1.0.4</title>
+      <pubDate>Tue, 16 Jun 2026 11:42:11 +0000</pubDate>
+      <sparkle:version>202606162140</sparkle:version>
+      <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[ <h3>ParkShelf 1.0.3</h3>
+      <description><![CDATA[ <h3>ParkShelf 1.0.4</h3>
 <ul>
-  <li><strong>Auto-doze fix:</strong> the shelf now collapses to its compact puck after a few seconds idle <em>even when pinned</em>. Pinning now only locks the shelf's position &mdash; it no longer keeps it expanded.</li>
-  <li><strong>New appearances:</strong> pick <strong>Liquid Glass</strong> or <strong>Liquid Glass Clear</strong> alongside the standard look, with <strong>Translucency</strong> and <strong>Tint</strong> sliders to fine-tune the glass (Settings &rarr; ParkShelf).</li>
-  <li><strong>Consistent preview:</strong> the live-preview panel now matches your chosen appearance.</li>
+  <li><strong>Fixed:</strong> live window previews now appear correctly in the <strong>Liquid Glass</strong> and <strong>Liquid Glass Clear</strong> appearances (they were hidden in 1.0.3).</li>
+  <li><strong>Auto-doze:</strong> the shelf collapses to its compact puck after a few seconds idle even when pinned &mdash; pinning now only locks the shelf's position.</li>
+  <li><strong>Appearances:</strong> choose <strong>Liquid Glass</strong> or <strong>Liquid Glass Clear</strong> with <strong>Translucency</strong> and <strong>Tint</strong> sliders to fine-tune the glass (Settings &rarr; ParkShelf).</li>
 </ul> ]]></description>
-      <enclosure url="https://github.com/sathinator-afk/parkshelf-releases/releases/download/v1.0.3/ParkShelf-1.0.3.zip" type="application/octet-stream" sparkle:edSignature="yxM8J+sMBR4pljoSBUwC/CkcZB7bdiYIcntafE3p89445DMAgp5hXFBPLI7uFAEetsxcyj3PCzh7gLSR1pa4Dw==" length="2488028" />
+      <enclosure url="https://github.com/sathinator-afk/parkshelf-releases/releases/download/v1.0.4/ParkShelf-1.0.4.zip" type="application/octet-stream" sparkle:edSignature="51RiRtYrChnI6VZZtY7mkfB6+Yxo6DNZNsYXv9CJaPC/iU2BUe4iIXYxpziQicQlH2uyWIbVCvFb163Ju1q+Dg==" length="2488547" />
     </item>
   </channel>
 </rss>
