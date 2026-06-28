@@ -6,17 +6,18 @@
     <description>ParkShelf updates</description>
     <language>en</language>
     <item>
-      <title>Version 1.1.0</title>
-      <pubDate>Sun, 28 Jun 2026 05:48:05 +0000</pubDate>
-      <sparkle:version>202606281546</sparkle:version>
-      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <title>Version 1.1.1</title>
+      <pubDate>Sun, 28 Jun 2026 06:06:09 +0000</pubDate>
+      <sparkle:version>202606281604</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[ <h3>ParkShelf 1.1.0</h3>
+      <description><![CDATA[ <h3>ParkShelf 1.1.1</h3>
 <ul>
-  <li><strong>Native Liquid Glass — now on by default (macOS 26).</strong> The shelf adopts Apple’s Liquid Glass material out of the box on macOS 26. Prefer the previous look? Switch to Classic any time in Settings → Appearance, or try the more transparent “Clear” variant.</li>
+  <li><strong>Help &amp; Feedback in Settings.</strong> Reach us in one click — Settings now has a Help &amp; Feedback section that emails contact@parkshelf.com.</li>
+  <li><strong>Native Liquid Glass, on by default (macOS 26).</strong> The shelf uses Apple’s Liquid Glass material out of the box. Prefer the previous look? Switch to Classic any time in Settings → Appearance, or try the more transparent “Clear” variant.</li>
   <li>Refinements and fixes throughout.</li>
 </ul> ]]></description>
-      <enclosure url="https://github.com/sathinator-afk/ParkShelf-Mac/releases/download/v1.1.0/ParkShelf-1.1.0.zip" type="application/octet-stream" sparkle:edSignature="BfM5sHIJJSdj1ppWlxy59cZaE++NaCJQFeXdqXfr9HDFAPfVl/b170oXLaUOFO3qebs6WBZv+PTfylXDHSIoBg==" length="2490641" />
+      <enclosure url="https://github.com/sathinator-afk/ParkShelf-Mac/releases/download/v1.1.1/ParkShelf-1.1.1.zip" type="application/octet-stream" sparkle:edSignature="JLwr8uUySU0pLUf+y5EU6z209d2Cs41Q5/kCSaXu37AqvQAS+PDbHBqKNQvJStpeEoHko2NstSBhS78VoirPAA==" length="2496187" />
     </item>
   </channel>
 </rss>
