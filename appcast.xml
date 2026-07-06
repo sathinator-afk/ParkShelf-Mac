@@ -6,18 +6,17 @@
     <description>ParkShelf updates</description>
     <language>en</language>
     <item>
-      <title>Version 1.1.1</title>
-      <pubDate>Sun, 28 Jun 2026 06:06:09 +0000</pubDate>
-      <sparkle:version>202606281604</sparkle:version>
-      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <title>Version 1.1.2</title>
+      <pubDate>Mon, 06 Jul 2026 10:16:56 +0000</pubDate>
+      <sparkle:version>202607062015</sparkle:version>
+      <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[ <h3>ParkShelf 1.1.1</h3>
+      <description><![CDATA[ <h3>ParkShelf 1.1.2</h3>
 <ul>
-  <li><strong>Help &amp; Feedback in Settings.</strong> Reach us in one click — Settings now has a Help &amp; Feedback section that emails contact@parkshelf.com.</li>
-  <li><strong>Native Liquid Glass, on by default (macOS 26).</strong> The shelf uses Apple’s Liquid Glass material out of the box. Prefer the previous look? Switch to Classic any time in Settings → Appearance, or try the more transparent “Clear” variant.</li>
-  <li>Refinements and fixes throughout.</li>
+  <li><strong>Fixes drag-to-park not working for some users.</strong> Dragging a window onto the shelf needs macOS “Input Monitoring” permission, which is separate from Accessibility. ParkShelf now asks for it during setup, clearly flags when it’s missing, and starts working the moment you grant it — no relaunch needed.</li>
+  <li>If drag-to-park was silent for you before, open the ParkShelf menu-bar icon for a one-tap fix, or enable Input Monitoring in System Settings → Privacy &amp; Security. Keyboard shortcuts were unaffected either way.</li>
 </ul> ]]></description>
-      <enclosure url="https://github.com/sathinator-afk/ParkShelf-Mac/releases/download/v1.1.1/ParkShelf-1.1.1.zip" type="application/octet-stream" sparkle:edSignature="JLwr8uUySU0pLUf+y5EU6z209d2Cs41Q5/kCSaXu37AqvQAS+PDbHBqKNQvJStpeEoHko2NstSBhS78VoirPAA==" length="2496187" />
+      <enclosure url="https://github.com/sathinator-afk/ParkShelf-Mac/releases/download/v1.1.2/ParkShelf-1.1.2.zip" type="application/octet-stream" sparkle:edSignature="A5XxGOi2psxHAaupNVNnZt9EsrXHVovEAlzK01XJtRRlD48ldNSF1NWcEVprYKLU09JPdTNrhXOwRa/m3HCLAQ==" length="2500212" />
     </item>
   </channel>
 </rss>
