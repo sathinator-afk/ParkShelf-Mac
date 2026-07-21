@@ -6,17 +6,18 @@
     <description>ParkShelf updates</description>
     <language>en</language>
     <item>
-      <title>Version 1.1.2</title>
-      <pubDate>Mon, 06 Jul 2026 10:16:56 +0000</pubDate>
-      <sparkle:version>202607062015</sparkle:version>
-      <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+      <title>Version 1.1.3</title>
+      <pubDate>Tue, 21 Jul 2026 00:42:52 +0000</pubDate>
+      <sparkle:version>202607211041</sparkle:version>
+      <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[ <h3>ParkShelf 1.1.2</h3>
+      <description><![CDATA[ <h3>ParkShelf 1.1.3</h3>
 <ul>
-  <li><strong>Fixes drag-to-park not working for some users.</strong> Dragging a window onto the shelf needs macOS “Input Monitoring” permission, which is separate from Accessibility. ParkShelf now asks for it during setup, clearly flags when it’s missing, and starts working the moment you grant it — no relaunch needed.</li>
-  <li>If drag-to-park was silent for you before, open the ParkShelf menu-bar icon for a one-tap fix, or enable Input Monitoring in System Settings → Privacy &amp; Security. Keyboard shortcuts were unaffected either way.</li>
+  <li><strong>Fixed keyboard parking for multi-window workflows.</strong> ⌥P now always parks the active window, so pressing it again parks the next window instead of restoring the previous one.</li>
+  <li><strong>Added ⌥R to restore the last parked window.</strong> ⌥⇧R still restores all parked windows, and ⌥⇧P remains the Pro shortcut for Park All Open Windows.</li>
+  <li><strong>Made custom shortcuts easier.</strong> Pro users can now record a shortcut directly in Settings instead of entering a hardware key code. Settings also explains the app-active fallback.</li>
 </ul> ]]></description>
-      <enclosure url="https://github.com/sathinator-afk/ParkShelf-Mac/releases/download/v1.1.2/ParkShelf-1.1.2.zip" type="application/octet-stream" sparkle:edSignature="A5XxGOi2psxHAaupNVNnZt9EsrXHVovEAlzK01XJtRRlD48ldNSF1NWcEVprYKLU09JPdTNrhXOwRa/m3HCLAQ==" length="2500212" />
+      <enclosure url="https://github.com/sathinator-afk/ParkShelf-Mac/releases/download/v1.1.3/ParkShelf-1.1.3.zip" type="application/octet-stream" sparkle:edSignature="KyQsbhCK3mFf3rm6oj7ZsqtsdlNhMh791nS2rh73RGhJagd7lHTfAhWiUHrQ4ZAPt54ftqOsg2T1onR3NZJlAA==" length="2617305" />
     </item>
   </channel>
 </rss>
