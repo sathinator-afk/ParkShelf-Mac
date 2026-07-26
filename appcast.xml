@@ -6,18 +6,18 @@
     <description>ParkShelf updates</description>
     <language>en</language>
     <item>
-      <title>Version 1.1.3</title>
-      <pubDate>Tue, 21 Jul 2026 00:42:52 +0000</pubDate>
-      <sparkle:version>202607211041</sparkle:version>
-      <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
+      <title>Version 1.2.0</title>
+      <pubDate>Sun, 26 Jul 2026 12:11:28 +0000</pubDate>
+      <sparkle:version>202607262209</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[ <h3>ParkShelf 1.1.3</h3>
+      <description><![CDATA[ <h3>ParkShelf 1.2.0</h3>
 <ul>
-  <li><strong>Fixed keyboard parking for multi-window workflows.</strong> ⌥P now always parks the active window, so pressing it again parks the next window instead of restoring the previous one.</li>
-  <li><strong>Added ⌥R to restore the last parked window.</strong> ⌥⇧R still restores all parked windows, and ⌥⇧P remains the Pro shortcut for Park All Open Windows.</li>
-  <li><strong>Made custom shortcuts easier.</strong> Pro users can now record a shortcut directly in Settings instead of entering a hardware key code. Settings also explains the app-active fallback.</li>
+  <li><strong>Park individual Chrome tabs.</strong> ParkShelf can move the active Chrome tab onto the shelf and later return that same live tab to its original Chrome window automatically.</li>
+  <li><strong>Your browsing state stays intact.</strong> Parked Chrome tabs are moved rather than recreated, preserving the live page, history, login state, and scroll position.</li>
+  <li><strong>Safari remains window-based.</strong> Safari does not provide the same live-tab movement capability, so ParkShelf safely parks the complete Safari window. An alternative solution for Safari users is in development.</li>
 </ul> ]]></description>
-      <enclosure url="https://github.com/sathinator-afk/ParkShelf-Mac/releases/download/v1.1.3/ParkShelf-1.1.3.zip" type="application/octet-stream" sparkle:edSignature="KyQsbhCK3mFf3rm6oj7ZsqtsdlNhMh791nS2rh73RGhJagd7lHTfAhWiUHrQ4ZAPt54ftqOsg2T1onR3NZJlAA==" length="2617305" />
+      <enclosure url="https://github.com/sathinator-afk/ParkShelf-Mac/releases/download/v1.2.0/ParkShelf-1.2.0.zip" type="application/octet-stream" sparkle:edSignature="CYyjnHqGrG2J3TXI2ADooE7oK6qDGw5636keBIMIwdY53++vy6sUvk/M3/m8ylcNKqUHYUkmlxsvsptqW0PCCw==" length="2874369" />
     </item>
   </channel>
 </rss>
